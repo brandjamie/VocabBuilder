@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unizwa Vocab Pre-Foundation</string>
+    <string name="saved_high_score">saved_hiscore</string>
+    <string name="saved_score">saved_score</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_vocab_choice_title">Choice of words to study</string>
+   <string name="settings_menu_item">Settings</string>
+
+
+
+</resources>

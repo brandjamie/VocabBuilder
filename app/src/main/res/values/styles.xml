@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+    </style>
+    <dimen name="question_text_size">30sp</dimen>
+    <dimen name="answer_text_size">20sp</dimen>
+    <dimen name="score_text_size">30sp</dimen>
+    <dimen name="hiscore_text_size">10sp</dimen>
+
+</resources>

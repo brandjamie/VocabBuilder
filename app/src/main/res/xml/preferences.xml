@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference     android:title="Choice of Vocab"
+        android:summary="Select which vocab you want to practice"
+        android:key="vocabChoice"
+        android:defaultValue="1"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues" />
+
+    <CheckBoxPreference android:title="Transliteration"
+        android:defaultValue="false"
+        android:summary="Add transliteration to Arabic words."
+        android:key="transliteration" />
+
+
+
+    </PreferenceScreen>
