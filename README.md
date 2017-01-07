@@ -4,6 +4,9 @@ Transliteration of Arabic words is offered should any English speakers wish to s
 
 The app was listed on the Play store as 'Unizwa Vocab Pre Foundation' but has now been unpublished as it contains vocab relevent only to that semester. The app can be adapted by changing the wordlist in 'fall(a)vocab.csv' in the assets folder as well as changing the dates of each unit of vocab to be introduced in the 'weekstarts' array in 'MainActivity.java'. 
 
+If you wish to try the app with the out of date vocabulary you can install the latest build from here:
+./app-release1.0.apk
+
 This code is offered with an MIT licence. 
 
 
